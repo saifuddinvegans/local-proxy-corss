@@ -1,8 +1,8 @@
 # local-proxy-corss
-## step to run
-# install
+# step to run
+## install
 `npm i`
-# run
+## run
 `npm start`
 
  
