@@ -1,0 +1,15 @@
+{
+  "name": "local-proxy-corss",
+  "version": "1.0.0",
+  "description": "Create proxy for corss issue",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saifuddin",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
